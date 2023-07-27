@@ -17,16 +17,20 @@
 
 ## Payment with new card
 
+![new-card](https://github.com/Sumittecorb/hyper-pay-next/assets/105202084/e2507643-4fbc-496c-8be7-4b70846c38d6)
+
 * We do payment with new card and also with saved card list
 * If we do payment with add new card then pls check code of root file app.tsx
 all instruction are there.
 
 ## saved card payment
+![saved-card](https://github.com/Sumittecorb/hyper-pay-next/assets/105202084/ec77ec60-de6a-4934-aac7-b140036254a4)
 
 * When we do payment with save card then the process is same
 * Firstly genrate checkout id from select card
 * Then behalf of that render the card widget where we enter only cvv no.
 * And then process is same as
+![verify](https://github.com/Sumittecorb/hyper-pay-next/assets/105202084/fc085deb-a90e-42e0-b20e-e894972e2715)
 
 ### Frameworks
 
