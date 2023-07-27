@@ -1,9 +1,9 @@
 ## Hyperpay integration Introdution
  * To start hyper pay payment gateway there is no third party integration.
- * here we need card entity id like visa entity id or mada card entity id
- * hyper provide Card widget to enter card details if add new card
- * hyper provide Card widget to enter card cvv if we do payment with save card
- * hyper pay provide api to verify payment
+ * Here we need card entity id like visa entity id or mada card entity id
+ * Hyper provide Card widget to enter card details if add new card
+ * Hyper provide Card widget to enter card cvv if we do payment with save card
+ * Hyper pay provide api to verify payment
 
 ## Testing test card and api and payment widget card
 
@@ -17,16 +17,16 @@
 
 ## Payment with new card
 
-* we do payment with new card and also with saved card list
-* if we do payment with add new card then pls check code of root file app.tsx
+* We do payment with new card and also with saved card list
+* If we do payment with add new card then pls check code of root file app.tsx
 all instruction are there.
 
 ## saved card payment
 
-* when we do payment with save card then the process is same
-* firstly genrate checkout id from select card
-* then behalf of that render the card widget where we enter only cvv no.
-* and then process is same as
+* When we do payment with save card then the process is same
+* Firstly genrate checkout id from select card
+* Then behalf of that render the card widget where we enter only cvv no.
+* And then process is same as
 
 ### Frameworks
 
