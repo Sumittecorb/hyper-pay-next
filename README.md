@@ -42,3 +42,16 @@ all instruction are there.
 - [TypeScript](https://www.typescriptlang.org/) – Static type checker for end-to-end typesafety
 - [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
 - [ESLint](https://eslint.org/) – Pluggable linter for Next.js and TypeScript
+
+## testing Entity Id
+- NEXT_GOEJAR_HYPERPAY_VISA_MASTER_ENTITYID=8ac7a4c87f485438017f4ad726376ecc
+- NEXT_GOEJAR_HYPERPAY_VISA_MADA_ENTITYID=8ac7a4c87f485438017f4ad7ddda6ed5
+- NEXT_GOEJAR_HYPERPAY_PAYMENT_WIDGET=https://test.oppwa.com/v1/paymentWidgets.js
+- NEXT_HYPERPAY_PAYMENT_URL=https://test.oppwa.com
+
+
+
+
+
+
+
